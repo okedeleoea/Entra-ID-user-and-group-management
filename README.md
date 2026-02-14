@@ -1,4 +1,4 @@
-### Entra ID User & Group Management (IAM Fundamentals)
+# Entra ID User & Group Management (IAM Fundamentals)
 # Overview
 This project demonstrates foundational Identity and Access Management (IAM) operations using Microsoft Entra ID. The lab focuses on creating cloud identities, organizing users with security groups, and validating group-based access control in a sandbox Azure environment.
 The lab was completed using Microsoft Learn sandbox environments, which provide a temporary Azure tenant without requiring a credit card.
@@ -14,14 +14,14 @@ Azure Portal (Microsoft Learn Sandbox)
 Web browser
 GitHub (documentation & version control)
 ## Lab Setup
-#Environment
+# Environment
 Microsoft Learn Sandbox (temporary Azure subscription)
 Built-in Entra ID tenant
 No credit card required
 # Pre-requisites
 Microsoft Learn account
 Basic understanding of IAM concepts
-# Step-by-Step Setup
+## Step-by-Step Setup
 1. Launch Azure Sandbox
 Accessed a Microsoft Learn module with “Launch sandbox” enabled
 Activated sandbox and opened Azure Portal
@@ -77,5 +77,5 @@ Directly applicable to SOC Analyst and Cloud Security roles
 Assign RBAC roles to the IT Department group on a VM
 Enable MFA for privileged users
 Review Entra ID audit logs for user and group changes
-# 📌 Note
+## 📌 Note
 This lab was completed using Microsoft Learn sandbox environments, which provide temporary Azure tenants for hands-on learning without requiring payment information.
